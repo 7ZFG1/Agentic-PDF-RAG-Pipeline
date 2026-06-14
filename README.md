@@ -30,6 +30,7 @@ orkestrasyon döngüsüyle Gemini modeli üzerinden doğrulanmış cevaplar üre
 
 - **PDF ön işleme**: Metin, tablo ve görsellerin font/yapı analizine dayalı olarak
   ayrıştırılması (pdfplumber + PyMuPDF).
+- **Çoklu PDF İşleme**: Klasörde bulunan birden fazla pdf dosyasını işler.
 - **Yapısal chunking**: Belge başlık/bölüm yapısına göre, sayfa ve bölüm bilgisini
   taşıyan, örtüşmeli (overlap) metin parçaları.
 - **Çok dilli (TR/EN) embedding ve FAISS tabanlı arama**: Metin ve görseller için ayrı
