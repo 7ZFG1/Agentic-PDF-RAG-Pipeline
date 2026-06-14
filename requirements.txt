@@ -1,0 +1,10 @@
+pdfplumber
+PyMuPDF
+sentence-transformers
+faiss-cpu
+numpy
+google-cloud-aiplatform
+langchain
+langchain-core
+langchain-google-vertexai
+langgraph

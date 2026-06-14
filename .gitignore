@@ -1,0 +1,8 @@
+*.pdf
+*.png
+*.jpg
+*.index
+*.json
+*.pk
+.env
+.env.*
