@@ -54,7 +54,7 @@ Sistem iki ana hattan oluşur:
    ve `ImageAnalystAgent` araçlarını kullanarak bir taslak cevap üretir;
    `ValidatorAgent` bu cevabı bağlamla karşılaştırıp nihai cevabı döndürür.
 
-Detaylı mimari diyagram ve tasarım kararları için `Mimari Tasarım Dokümanı & Kısa Teknik Not.docx`
+Detaylı mimari diyagram ve tasarım kararları için [Mimari Tasarım Dokümanı & Kısa Teknik Not.docx](https://drive.google.com/file/d/1yIQsz714-jiFMY0j6i6cKBcrlxfu0Gjv/view?usp=sharing)
 dosyasına bakınız.
 
 ---
@@ -166,10 +166,10 @@ python main.py --pdf data/rapor.pdf --question "YOLOv8'in mAP değeri nedir?"
 
 ### Komut Satırı Argümanları
 
-| Argüman | Açıklama | Varsayılan |
+| Argüman | Açıklama |
 |---|---|---|
-| `--pdf` | PDF dosyası veya PDF'lerin bulunduğu klasör | `data` |
-| `--question` | Sorulacak soru | (kod içinde tanımlı örnek soru) |
+| `--pdf` | PDF dosyası veya PDF'lerin bulunduğu klasör |
+| `--question` | Sorulacak soru |
 
 ---
 
