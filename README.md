@@ -168,7 +168,7 @@ python main.py --pdf data/rapor.pdf --question "YOLOv8'in mAP değeri nedir?"
 ### Komut Satırı Argümanları
 
 | Argüman | Açıklama |
-|---|---|---|
+|---|---|
 | `--pdf` | PDF dosyası veya PDF'lerin bulunduğu klasör |
 | `--question` | Sorulacak soru |
 
